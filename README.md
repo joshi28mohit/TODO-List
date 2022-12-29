@@ -1,10 +1,10 @@
-##1. Project 
+1. Project 
 The Project is based to create a user personalized Todo List.
 
-##2. About 
+2. About 
 In this website, a user can create his/her own TODO List and can store their tasks in a simplified way where they can set the deadline of the task too. The design uses cards to show the tasks that the user has added. The name of this website is TODO.
 
-##3. What you have to do ❔
+3. What you have to do ❔
 - Make the home page (index.php) 
 - Make a login page 
 - Make a signup page 
@@ -44,35 +44,32 @@ Background image for all the pages
 ##8. Screenshots📷
 
 Home Page with Logged in user
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Index1.jpg?raw=true)
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Index2.jpg?raw=true)
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Index3.jpg?raw=true)
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Index4.jpg?raw=true)
+![Index1](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index1.jpg)
+![Index2](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index2.jpg)
+![Index3](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index3.jpg)
+![Index4](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index4.jpg)
 
 Sign Up page
 
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Signup1.jpg?raw=true)
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Signup2.jpg?raw=true)
+![Signup1](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Signup1.jpg)
+![Signup2](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Signup2.jpg)
 
 Login page
 
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Login.jpg?raw=true)
+![Login](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Login.jpg)
 
 Contact Page
 
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Contact1.jpg?raw=true)
-![alt text](https://github.com/joshi28mohit/TODO-List/Main/Files/images/Contact2.jpg?raw=true)
-Add Task Page Add Task
+![Contact1](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Contact1.jpg)
+![Contact2](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Contact1.jpg)
 
-Footer Page Footer Page
-
-##9. Limitations
+9. Limitations
 - User cannot open the main website without logging in.
 - Javascript is not used for the Filteration task, rather I have used PHP for the same.
 - Some of the pages are not responsive ,so they may not load properly in small devices.
 
-##10. Summary
-While making this project, I learned a lot of things. Starting from the skeleton, I learned some tags and attributes of HTML which I didnt knew before. I got to know the uses of CSS Properties like Flex and Grid. Before making this project, I didn't knew how PHP is used in the back end and how it is linked with the Database, bt now I know how to do it and I also did the filteration of the tasks using PHP.  
+10. Summary
+- While making this project, I learned a lot of things. Starting from the skeleton, I learned some tags and attributes of HTML which I didnt knew before. I got to know   the uses of CSS Properties like Flex and Grid. Before making this project, I didn't knew how PHP is used in the back end and how it is linked with the Database, bt     now I know how to do it and I also did the filteration of the tasks using PHP.  
 
-##11. Project Developer
-Mohit Joshi
+11. Project Developer
+- Mohit Joshi
