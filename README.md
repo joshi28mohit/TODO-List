@@ -14,12 +14,12 @@ In this website, a user can create his/her own TODO List and can store their tas
 - Functionalities to add a new task. 
 - Perform the filtration of the task i.e functionalities for Updating and Deleting the task.
 
-##4. Description
+4. Description
 
 TODO is a user friendly website where the new user can make their own account to save their task in the form of cards.
 Here, the user can also update the the Date of deadline and add or remove task in their todo lists.
 
-##5. Technology Stack Used 📒
+5. Technology Stack Used 📒
 
 -Languages 📖
 -HTML
@@ -36,12 +36,12 @@ IDE USED 💡
 -PHP Intelephense
 -HTML CSS Support
 
-##7.Useful Links
+7.Useful Links
 
 Images used in the project
 Background image for all the pages
 
-##8. Screenshots📷
+8. Screenshots📷
 
 Home Page with Logged in user
 ![Index1](https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index1.jpg)
