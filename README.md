@@ -1,5 +1,5 @@
-1. Project 
-The Project is based to create a user personalized Todo List.
+1. Project -
+The Project is to create a user personalized Todo List.
 
 2. About 
 In this website, a user can create his/her own TODO List and can store their tasks in a simplified way where they can set the deadline of the task too. The design uses cards to show the tasks that the user has added. The name of this website is TODO.
