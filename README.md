@@ -22,13 +22,13 @@ Here, the user can also update the the Date of deadline and add or remove task i
 5. Technology Stack Used 📒
 
 -Languages 📖
--HTML
--Javascript
--PHP
--MySQL
+HTML
+Javascript
+PHP
+MySQL
 
 IDE USED 💡
--Visual Studio Code https://code.visualstudio.com
+Visual Studio Code https://code.visualstudio.com
 -Extensions
 -Format HTML in PHP
 -JavaScript (ES6) code snippets v1.8.0
@@ -39,7 +39,7 @@ IDE USED 💡
 7.Useful Links
 
 Images used in the project
-Background image for all the pages
+Background image for all the pages 
 
 8. Screenshots📷
 
