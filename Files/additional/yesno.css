@@ -1,0 +1,43 @@
+/* .connection
+{
+    background-color:#eefcff;
+    /* display: flex;
+    flex-direction: column; */
+    /* margin: 2px; */ 
+    /* padding: 2px; 
+}*/
+
+main
+{
+    display: flex;
+    justify-content:center;
+    margin: 2px;
+    border: 2px solid black; 
+    padding: 2px;
+} 
+
+.box
+{
+    background-color: #fc5d5d;
+    border: 2px solid yellow;
+    /* margin: 10px; */
+    height: 150px;
+    width: 300px;
+}
+
+.buttonss
+{
+    display: flex;
+    justify-content:space-between;
+}
+
+.button1
+{
+    align-self: flex-start;
+}
+
+.button2
+{
+    align-self: flex-end;
+}
+

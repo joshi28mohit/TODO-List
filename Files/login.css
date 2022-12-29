@@ -1,0 +1,47 @@
+.main
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+    /* background-color: rgba(127, 255, 212, 0.308); */
+}
+/* .card
+{   
+    
+    /* margin-top: 150px;
+    margin-left: 400px; */
+    /* background-position: center;
+
+} */
+
+.body
+{
+    
+    background-image: url("indexxx.jpg");
+}
+
+.card-title
+{
+    text-decoration: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.button:hover
+{
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+
+}
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.btnn
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

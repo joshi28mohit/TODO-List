@@ -1,0 +1,237 @@
+.flexy
+{
+    display: grid;
+    background-image: url("indexxx.jpg");
+}
+
+.forrm:hover
+{
+    background-color: rgb(32, 36, 36);
+    
+}
+/* .forrm
+{
+    background-color: rgb(23, 19, 26);
+} */
+
+body
+{
+    background-image: url("indexxx.jpg");
+    /* background-color: #ffeeee; */
+    background-color: #9cadfc75;
+    margin: 0;
+    /* background-color:#fbeeff; */
+    /* background-color:#eef1ff;  */
+     /* background-color:#eefcff; */
+}
+.container
+{
+    /* display: flex; */
+    border: 2px solid black;
+    padding: 20px;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    display:grid;
+    /* grid-template-rows: 522px 522px;
+    grid-template-columns: 522px 522px; */
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    column-gap: 30px;
+    row-gap: 35px;
+    background-color: rgba(175, 168, 224, 0.774);
+}
+
+.heading1:hover
+{
+    color:brown;
+}
+
+.buttoncont1:hover
+{
+    background-color: rgb(161, 212, 214);
+}
+
+/* .flexx
+{ 1fr 1fr; heading p-3 bg-info bg-opacity-10 border border-info border-start-0 rounded-end
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+.container-item
+{
+    margin-left: 2px;
+    padding-left: 2px;
+    background-color: #e7dc3a;
+    border: 2px solid rgb(0, 0, 0);
+    /* margin: 10px; */
+    height: 300px;
+    border-radius: 15px;
+    width: 337px;
+}
+
+.buttoncont1
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border: 1px solid black; 
+    border-radius: 15px;
+    padding: 2px;
+    background-color: rgba(255, 115, 0, 0.5);
+}
+
+.buttoncont2
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.buttoncont3
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.buttoncont4
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.buttoncont5
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.buttoncont6
+{
+    display: flex;
+    flex-direction: column;
+    margin: 2px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+.button11
+{
+    align-self: flex-start;
+
+}
+
+.button12
+{
+    align-self: flex-end;
+}
+
+.button21
+{
+    align-self: flex-start;
+}
+
+.button22
+{
+    align-self: flex-end;
+}
+
+.button31
+{
+    align-self: flex-start;
+}
+
+.button32
+{
+    align-self: flex-end;
+}
+
+.button41
+{
+    align-self: flex-start;
+}
+
+.button42
+{
+    align-self: flex-end;
+}
+
+.button51
+{
+    align-self: flex-start;
+}
+
+.button52
+{
+    align-self: flex-end;
+}
+
+.button61
+{
+    align-self: flex-start;
+}
+
+.button62
+{
+    align-self: flex-end;
+}
+
+.btt
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.heading
+{
+    text-align: center;
+    background-color: aliceblue;
+    background-size: cover;
+}
+
+
+/* .carouselslide
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+} */
+
+.heading1
+{
+    color:white;
+}
+
+/* 
+.container
+{
+border: 2px solid black;
+padding: 20px;
+justify-content: center;
+display:grid;
+grid-template-columns:1fr 1fr 1fr;
+grid-template-rows: 1fr;
+column-gap: 35px;
+}
+
+.container-item
+{
+background-color: #ffcbcbb9;
+border: 2px solid yellow;
+/* margin: 10px;
+height: 300px;
+width: 330px;
+} */
