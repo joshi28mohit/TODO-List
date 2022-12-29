@@ -21,20 +21,20 @@ Here, the user can also update the the Date of deadline and add or remove task i
 
 ##5. Technology Stack Used 📒
 
-Languages 📖
-HTML
-Javascript
-PHP
-MySQL
+-Languages 📖
+-HTML
+-Javascript
+-PHP
+-MySQL
 
 IDE USED 💡
-Visual Studio Code https://code.visualstudio.com
-Extensions
-Format HTML in PHP
-JavaScript (ES6) code snippets v1.8.0
-PHP IntelliSense
-PHP Intelephense
-HTML CSS Support
+-Visual Studio Code https://code.visualstudio.com
+-Extensions
+-Format HTML in PHP
+-JavaScript (ES6) code snippets v1.8.0
+-PHP IntelliSense
+-PHP Intelephense
+-HTML CSS Support
 
 ##7.Useful Links
 
