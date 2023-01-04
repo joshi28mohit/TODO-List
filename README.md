@@ -59,17 +59,17 @@ Images used in the project Background image for all the pages
 <table>
 <tr>
 <td><b>Home Page with Logged in user</b></td>
-<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index1.jpg" alt="Index Image 1></td>
-<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index2.jpg" alt="Index Image 1></td>
+<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index1.jpg" alt="Index Image 1"></td>
+<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Index2.jpg" alt="Index Image 2"></td>
 </tr>
 <tr>
 <td><b>Sign Up page</b></td>
-<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Signup1.jpg" alt="Signup Image 1></td>
-<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Signup2.jpg" alt="Signup Image 2></td>
+<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Signup1.jpg" alt="Signup Image 1"></td>
+<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Signup2.jpg" alt="Signup Image 2"></td>
 </tr>
 <tr>
 <td><b>Login page</b></td>
-<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Login.jpg" alt="Login Image 1></td>
+<td><img src="https://github.com/joshi28mohit/TODO-List/blob/main/Files/images/Login.jpg" alt="Login Image 1"></td>
 <td></td>
 </tr>
 <tr>
