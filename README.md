@@ -1,26 +1,27 @@
-# 1. Project
+# 1. Aim of the Project
 
 The Project is to create a user personalized Todo List.
 
-# 2. About
+# 2. What's all About?
 
 In this website, a user can create his/her own TODO List and can store their tasks in a simplified way where they can set the deadline of the task too. The design uses cards to show the tasks that the user has added. The name of this website is TODO.
 
 # 3. What have you done❔
 <ul>
-<li>Make the home page (index.php)</li>
-<li>Make a login page</li>
-<li>Make a signup page</li>
-<li>Make a page to display the ToDo List of your task.</li>
-<li>Make a contact page</li>
-<li>Use php and MySQL in the Backend to perform user authentication.</li>
+<li>Made a home page (index.php)</li>
+<li>Made a login page</li>
+<li>Made a signup page</li>
+<li>Made a page to display the ToDo List of your task.</li>
+<li>Made a contact page</li>
+<li>Used php and MySQL in the Backend to perform user authentication.</li>
 <li>Functionalities to add a new task.</li>
 <li>Perform the filtration of the task i.e functionalities for Updating and Deleting the task.</li>
+<li>The information is linked to the database and can is connected while updating and deleting too</li>
 </ul>
 
 # 4. Description
 
-<em>TODO is a user friendly website where the new user can make their own account to save their task in the form of cards. Here, the user can also update the the Date of deadline and add or remove task in their todo lists.</em>
+<em><strong><u>TODO</u></strong> is a user friendly website where the new user can make their own account to save their task in the form of cards. Here, the user can also update the the Date of deadline and add or remove task in their todo lists.</em>
 
 # 5. Technology Stack Used 📒
 <ol>
@@ -49,7 +50,7 @@ In this website, a user can create his/her own TODO List and can store their tas
 
 # 6. Useful Links
 
-Images used in the project Background image for all the pages
+The link of the Image used as the Background for all the pages is:<br> https://wallpaper.dog/large/5438555.jpg 
 
 # 7. Screenshots📷
 
@@ -74,12 +75,13 @@ Images used in the project Background image for all the pages
 ![Contact2](https://user-images.githubusercontent.com/114439332/210801966-2760b503-2ff0-41e1-a9dd-7995ec83d673.jpg)
 
 # 8. Limitations 
+<ul>
+<li>User cannot open the main website without logging in.</li>
+<li>Javascript is not used for the Filtration task, rather I have used PHP for the same.</li>
+<li>Some of the pages are not responsive ,so they may not load properly in small devices.</li>
+</ul>
 
-User cannot open the main website without logging in.
-Javascript is not used for the Filtration task, rather I have used PHP for the same.
-Some of the pages are not responsive ,so they may not load properly in small devices.
-
-# 9. Summary
+# 9. Summary/Things I learned
 
 While making this project, I learned a lot of things. Starting from the skeleton, I learned some tags and attributes of HTML which I didnt knew before. I got to know the uses of CSS Properties like Flex and Grid. Before making this project, I didn't knew how PHP is used in the back end and how it is linked with the Database, bt now I know how to do it and I also did the filtration of the tasks using PHP.
 
